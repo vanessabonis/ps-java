@@ -1,4 +1,4 @@
-package br.com.banco.dto;
+package br.com.banco.dto.filtro;
 
 import br.com.banco.enums.TipoTransferencia;
 import lombok.AllArgsConstructor;
