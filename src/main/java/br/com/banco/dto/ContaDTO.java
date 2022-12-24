@@ -7,6 +7,6 @@ import lombok.Setter;
 @Setter
 public class ContaDTO {
 
-    private Long id_conta;
+    private Long idConta;
     private String nomeResponsavel;
 }
